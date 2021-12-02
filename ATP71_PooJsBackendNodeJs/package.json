@@ -1,0 +1,12 @@
+{
+  "name": "atp71_atp70_poojsbackendnodejs",
+  "version": "1.0.0",
+  "description": "ATP71",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bruna",
+  "license": "ISC",
+  "type": "module"
+}
